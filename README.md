@@ -1,1 +1,1 @@
-Live link: https://wizardofvoid.github.io/E-learning-Platform/
+Live link: https://aryan77x.github.io/WebProject/
