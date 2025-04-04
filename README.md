@@ -1,2 +1,1 @@
-# WebProject
-Ed-Tech Website
+Live link: https://wizardofvoid.github.io/E-learning-Platform/
